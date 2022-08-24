@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="es">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="es" authors="AnaMaria Seglie">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11319</md:content-id>
-    <md:title>Spanish Literature/Literatura en español</md:title>
+    <md:title>Spanish Literature/Literatura en espa&#xF1;ol</md:title>
     <md:language>es</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>a9cfb230-5902-49fe-873d-3a9d24466a95</md:uuid>
-<md:slug>spanish-literature-literatura-en-espanol</md:slug>
-</metadata>
+    <md:slug>spanish-literature-literatura-en-espanol</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Lesson plans/Planes para la clase</md:title>
